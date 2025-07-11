@@ -56,8 +56,10 @@ The mobile app connects to **Firebase** to:
 ### 📸 App Screenshots
 <!-- Replace with actual image paths -->
 <p align="center">
-  <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/>
-  <img src="assets/screenshots/location.png" alt="Location Tracker" width="250"/>
+  <img src="images/app_1.jpg" alt="Home Screen" width="250"/>
+  <img src="images/app_2.jpg" alt="Location Tracker" width="250"/>
+   <img src="images/app_3.jpg" alt="Location Tracker" width="250"/>
+   <img src="images/photo_5908810530762640704_y.jpg" alt="Location Tracker" width="250"/>
 </p>
 
 ---
